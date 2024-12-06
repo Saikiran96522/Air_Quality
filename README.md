@@ -1,0 +1,1 @@
+### Develop a system to monitor air quality in real time using Internet of Things (IoT) technology. The system measures key air quality parameters, such as temperature, humidity, particulate matter (PM), and gas levels (e.g., CO2, CO, NO2), and transmits the data to a cloud platform for analysis and visualization
